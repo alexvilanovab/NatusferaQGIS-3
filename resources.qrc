@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/natusfera_qgis_3" >
+        <file>icon.png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
